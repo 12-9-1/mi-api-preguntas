@@ -1,0 +1,158 @@
+[
+  {
+    "id": 24,
+    "categoria": "Cultura popular",
+    "pregunta": "¿Cuál es el nombre del colegio de magia en la saga de Harry Potter?",
+    "opciones": [
+      "Hogwarts",
+      "Ilvermorny",
+      "Beauxbatons",
+      "Durmstrang"
+    ],
+    "respuesta": "Hogwarts",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 129,
+    "categoria": "Economía",
+    "pregunta": "¿Cómo se llama el aumento generalizado y sostenido de los precios de bienes y servicios en una economía?",
+    "opciones": [
+      "Inflación",
+      "Deflación",
+      "Recesión",
+      "Depresión"
+    ],
+    "respuesta": "Inflación",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 130,
+    "categoria": "Finanzas personales",
+    "pregunta": "¿Cuál de las siguientes opciones describe mejor el concepto de 'fondo de emergencia'?",
+    "opciones": [
+      "Dinero ahorrado para imprevistos",
+      "Crédito disponible en una tarjeta",
+      "Préstamo bancario a largo plazo",
+      "Inversión en acciones de alto riesgo"
+    ],
+    "respuesta": "Dinero ahorrado para imprevistos",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 131,
+    "categoria": "Salud",
+    "pregunta": "¿Cuál de las siguientes prácticas contribuye más directamente a una buena salud cardiovascular?",
+    "opciones": [
+      "Hacer ejercicio regularmente",
+      "Consumir solo bebidas energéticas",
+      "Dormir menos de 4 horas",
+      "Fumar ocasionalmente"
+    ],
+    "respuesta": "Hacer ejercicio regularmente",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 132,
+    "categoria": "Primeros auxilios",
+    "pregunta": "Ante una hemorragia externa abundante en una extremidad, ¿cuál es la primera acción recomendable?",
+    "opciones": [
+      "Aplicar presión directa sobre la herida",
+      "Ofrecer agua para beber",
+      "Mover bruscamente la extremidad",
+      "Retirar todos los vendajes previos"
+    ],
+    "respuesta": "Aplicar presión directa sobre la herida",
+    "dificultad": "Difícil"
+  },
+  {
+    "id": 139,
+    "categoria": "Psicología",
+    "pregunta": "¿Cómo se llama el fenómeno por el cual las personas tienden a buscar y recordar información que confirma sus creencias previas?",
+    "opciones": [
+      "Sesgo de confirmación",
+      "Efecto halo",
+      "Disonancia cognitiva",
+      "Efecto Pigmalión"
+    ],
+    "respuesta": "Sesgo de confirmación",
+    "dificultad": "Difícil"
+  },
+  {
+    "id": 146,
+    "categoria": "Economía",
+    "pregunta": "¿Cómo se llama la situación en la que el producto interno bruto (PIB) de un país cae durante dos trimestres consecutivos o más?",
+    "opciones": [
+      "Recesión",
+      "Inflación",
+      "Deflación",
+      "Estanflación"
+    ],
+    "respuesta": "Recesión",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 147,
+    "categoria": "Finanzas personales",
+    "pregunta": "¿Cuál de las siguientes opciones suele considerarse una buena práctica financiera a largo plazo?",
+    "opciones": [
+      "Ahorrar una parte fija del ingreso",
+      "Gastar siempre el salario completo",
+      "Pedir préstamos para gastos pequeños",
+      "Usar solo crédito para compras"
+    ],
+    "respuesta": "Ahorrar una parte fija del ingreso",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 148,
+    "categoria": "Salud",
+    "pregunta": "¿Cuántas horas de sueño se recomiendan generalmente para un adulto saludable?",
+    "opciones": [
+      "7 a 9 horas",
+      "3 a 4 horas",
+      "10 a 12 horas",
+      "4 a 5 horas"
+    ],
+    "respuesta": "7 a 9 horas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 153,
+    "categoria": "Psicología",
+    "pregunta": "¿Cómo se llama la rama de la psicología que se enfoca en el estudio de los trastornos mentales?",
+    "opciones": [
+      "Psicopatología",
+      "Psicometría",
+      "Neuropsicología",
+      "Psicolingüística"
+    ],
+    "respuesta": "Psicopatología",
+    "dificultad": "Difícil"
+  },
+  {
+    "id": 170,
+    "categoria": "Psicología",
+    "pregunta": "¿Cómo se llama el fenómeno por el cual una persona subestima el impacto a largo plazo de cambios pequeños pero constantes en su comportamiento?",
+    "opciones": [
+      "Falacia del costo hundido",
+      "Sesgo de corto plazo",
+      "Descuento hiperbólico",
+      "Efecto halo"
+    ],
+    "respuesta": "Descuento hiperbólico",
+    "dificultad": "Legendario"
+  },
+  {
+    "id": 171,
+    "categoria": "Salud",
+    "pregunta": "¿Cómo se llama el conjunto de medidas coordinadas destinadas a preservar la salud de la población y prevenir enfermedades a gran escala?",
+    "opciones": [
+      "Salud pública",
+      "Medicina interna",
+      "Rehabilitación clínica",
+      "Terapia ocupacional"
+    ],
+    "respuesta": "Salud pública",
+    "dificultad": "Legendario"
+  }
+]

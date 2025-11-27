@@ -1,0 +1,145 @@
+[
+  {
+    "id": 4,
+    "categoria": "Deportes",
+    "pregunta": "¿Cuántos jugadores por equipo hay en la cancha en un partido oficial de baloncesto?",
+    "opciones": [
+      "5",
+      "6",
+      "7",
+      "11"
+    ],
+    "respuesta": "5",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 72,
+    "categoria": "Fútbol",
+    "pregunta": "¿Cuántos jugadores por equipo hay en la cancha en un partido oficial de fútbol?",
+    "opciones": [
+      "11",
+      "9",
+      "7",
+      "5"
+    ],
+    "respuesta": "11",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 73,
+    "categoria": "Fútbol",
+    "pregunta": "¿Qué selección ganó la Copa del Mundo de la FIFA en 2022?",
+    "opciones": [
+      "Argentina",
+      "Francia",
+      "Brasil",
+      "Alemania"
+    ],
+    "respuesta": "Argentina",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 74,
+    "categoria": "Fútbol",
+    "pregunta": "¿Cuál de estos jugadores es conocido como 'O Rei' (El Rey)?",
+    "opciones": [
+      "Pelé",
+      "Maradona",
+      "Messi",
+      "Cristiano Ronaldo"
+    ],
+    "respuesta": "Pelé",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 75,
+    "categoria": "Deportes",
+    "pregunta": "¿En qué deporte se utiliza una raqueta y una pelota amarilla sobre una pista dividida por una red?",
+    "opciones": [
+      "Tenis",
+      "Bádminton",
+      "Squash",
+      "Ping-pong"
+    ],
+    "respuesta": "Tenis",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 76,
+    "categoria": "Deportes",
+    "pregunta": "¿Qué deporte se practica en la NBA?",
+    "opciones": [
+      "Baloncesto",
+      "Béisbol",
+      "Fútbol americano",
+      "Hockey sobre hielo"
+    ],
+    "respuesta": "Baloncesto",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 77,
+    "categoria": "Deportes",
+    "pregunta": "En los Juegos Olímpicos, ¿en qué deporte compiten los nadadores?",
+    "opciones": [
+      "Natación",
+      "Remo",
+      "Waterpolo",
+      "Triatlón"
+    ],
+    "respuesta": "Natación",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 145,
+    "categoria": "Fútbol",
+    "pregunta": "¿Qué selección nacional es conocida como la 'Canarinha'?",
+    "opciones": [
+      "Brasil",
+      "España",
+      "México",
+      "Italia"
+    ],
+    "respuesta": "Brasil",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 156,
+    "categoria": "Deportes",
+    "pregunta": "¿En qué ciudad se celebraron los primeros Juegos Olímpicos modernos en 1896?",
+    "opciones": [
+      "Atenas",
+      "París",
+      "Londres",
+      "Roma"
+    ],
+    "respuesta": "Atenas",
+    "dificultad": "Difícil"
+  },
+  {
+    "id": 157,
+    "categoria": "Fútbol",
+    "pregunta": "¿Qué club ha ganado más títulos de la UEFA Champions League en la historia?",
+    "opciones": [
+      "Real Madrid",
+      "AC Milan",
+      "Barcelona",
+      "Liverpool"
+    ],
+    "respuesta": "Real Madrid",
+    "dificultad": "Difícil"
+  },
+  {
+    "id": 158,
+    "categoria": "Deportes",
+    "pregunta": "¿Qué atleta ostenta el récord de más medallas olímpicas ganadas en toda la historia?",
+    "opciones": [
+      "Michael Phelps",
+      "Usain Bolt",
+      "Carl Lewis",
+      "Larisa Latynina"
+    ],
+    "respuesta": "Michael Phelps",
+    "dificultad": "Legendario"
+  }
+]

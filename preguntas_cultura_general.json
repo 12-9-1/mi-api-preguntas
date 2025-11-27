@@ -1,0 +1,405 @@
+[
+  {
+    "id": 11,
+    "categoria": "Mitología",
+    "pregunta": "En la mitología griega, ¿quién es el dios del inframundo?",
+    "opciones": [
+      "Hades",
+      "Zeus",
+      "Ares",
+      "Hermes"
+    ],
+    "respuesta": "Hades",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 13,
+    "categoria": "Cultura general",
+    "pregunta": "¿En qué país se originó la práctica del yoga?",
+    "opciones": [
+      "India",
+      "China",
+      "Japón",
+      "Tailandia"
+    ],
+    "respuesta": "India",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 14,
+    "categoria": "Gastronomía",
+    "pregunta": "¿De qué país es originaria la paella?",
+    "opciones": [
+      "España",
+      "Italia",
+      "Francia",
+      "Portugal"
+    ],
+    "respuesta": "España",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 18,
+    "categoria": "Conocimiento no común",
+    "pregunta": "¿Cómo se llama el estudio de los insectos?",
+    "opciones": [
+      "Entomología",
+      "Ecología",
+      "Botánica",
+      "Zoología"
+    ],
+    "respuesta": "Entomología",
+    "dificultad": "Difícil"
+  },
+  {
+    "id": 19,
+    "categoria": "Conocimiento no común",
+    "pregunta": "¿Qué científico propuso originalmente el término 'quark' para describir una partícula subatómica?",
+    "opciones": [
+      "Murray Gell-Mann",
+      "Richard Feynman",
+      "Niels Bohr",
+      "Paul Dirac"
+    ],
+    "respuesta": "Murray Gell-Mann",
+    "dificultad": "Legendario"
+  },
+  {
+    "id": 21,
+    "categoria": "Lingüística",
+    "pregunta": "¿Cómo se denomina al cambio de significado de una palabra a lo largo del tiempo?",
+    "opciones": [
+      "Cambio semántico",
+      "Cambio fonético",
+      "Cambio morfológico",
+      "Cambio sintáctico"
+    ],
+    "respuesta": "Cambio semántico",
+    "dificultad": "Difícil"
+  },
+  {
+    "id": 25,
+    "categoria": "Conocimiento no común",
+    "pregunta": "¿Cómo se llama el fenómeno por el cual un material emite luz al ser calentado?",
+    "opciones": [
+      "Incandescencia",
+      "Fluorescencia",
+      "Fosforescencia",
+      "Bioluminiscencia"
+    ],
+    "respuesta": "Incandescencia",
+    "dificultad": "Difícil"
+  },
+  {
+    "id": 46,
+    "categoria": "Idiomas",
+    "pregunta": "¿Cuál es el idioma más hablado del mundo si se cuentan hablantes nativos y no nativos?",
+    "opciones": [
+      "Inglés",
+      "Chino mandarín",
+      "Español",
+      "Hindi"
+    ],
+    "respuesta": "Inglés",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 47,
+    "categoria": "Idiomas",
+    "pregunta": "¿En qué país el portugués es el idioma oficial principal?",
+    "opciones": [
+      "Brasil",
+      "Argentina",
+      "México",
+      "Chile"
+    ],
+    "respuesta": "Brasil",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 48,
+    "categoria": "Idiomas",
+    "pregunta": "La palabra japonesa 'arigatō' significa:",
+    "opciones": [
+      "Gracias",
+      "Hola",
+      "Adiós",
+      "Perdón"
+    ],
+    "respuesta": "Gracias",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 49,
+    "categoria": "Idiomas",
+    "pregunta": "¿Cuál de estos idiomas se escribe normalmente de derecha a izquierda?",
+    "opciones": [
+      "Árabe",
+      "Español",
+      "Ruso",
+      "Italiano"
+    ],
+    "respuesta": "Árabe",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 50,
+    "categoria": "Idiomas",
+    "pregunta": "¿Cuál es el idioma oficial de Alemania?",
+    "opciones": [
+      "Alemán",
+      "Holandés",
+      "Danés",
+      "Sueco"
+    ],
+    "respuesta": "Alemán",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 51,
+    "categoria": "Idiomas",
+    "pregunta": "La palabra francesa 'fromage' significa:",
+    "opciones": [
+      "Queso",
+      "Pan",
+      "Carne",
+      "Pescado"
+    ],
+    "respuesta": "Queso",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 52,
+    "categoria": "Idiomas",
+    "pregunta": "¿Cuál de los siguientes idiomas es una lengua romance (derivada del latín)?",
+    "opciones": [
+      "Italiano",
+      "Alemán",
+      "Ruso",
+      "Húngaro"
+    ],
+    "respuesta": "Italiano",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 53,
+    "categoria": "Idiomas",
+    "pregunta": "¿En qué país se habla mayoritariamente el idioma hindi?",
+    "opciones": [
+      "India",
+      "China",
+      "Pakistán",
+      "Bangladés"
+    ],
+    "respuesta": "India",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 54,
+    "categoria": "Idiomas",
+    "pregunta": "En inglés, la palabra 'book' significa:",
+    "opciones": [
+      "Libro",
+      "Bolso",
+      "Banco",
+      "Boca"
+    ],
+    "respuesta": "Libro",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 55,
+    "categoria": "Idiomas",
+    "pregunta": "¿Cuál de estos idiomas es cooficial en España además del castellano?",
+    "opciones": [
+      "Catalán",
+      "Polaco",
+      "Checo",
+      "Griego"
+    ],
+    "respuesta": "Catalán",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 88,
+    "categoria": "Mitología",
+    "pregunta": "En la mitología griega, ¿quién es el dios del trueno?",
+    "opciones": [
+      "Zeus",
+      "Ares",
+      "Poseidón",
+      "Apolo"
+    ],
+    "respuesta": "Zeus",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 89,
+    "categoria": "Mitología",
+    "pregunta": "En la mitología nórdica, ¿cómo se llama el martillo de Thor?",
+    "opciones": [
+      "Mjölnir",
+      "Gungnir",
+      "Excalibur",
+      "Andúril"
+    ],
+    "respuesta": "Mjölnir",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 90,
+    "categoria": "Mitología",
+    "pregunta": "¿Qué criatura mitológica tiene cuerpo de león y cabeza humana?",
+    "opciones": [
+      "Esfinge",
+      "Hidra",
+      "Minotauro",
+      "Quimera"
+    ],
+    "respuesta": "Esfinge",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 91,
+    "categoria": "Mitología",
+    "pregunta": "En la mitología egipcia, ¿qué dios tiene cabeza de chacal y está asociado con la momificación?",
+    "opciones": [
+      "Anubis",
+      "Ra",
+      "Osiris",
+      "Horus"
+    ],
+    "respuesta": "Anubis",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 92,
+    "categoria": "Mitología",
+    "pregunta": "En la mitología griega, ¿quién fue condenado a sostener el cielo sobre sus hombros?",
+    "opciones": [
+      "Atlas",
+      "Hércules",
+      "Prometeo",
+      "Perseo"
+    ],
+    "respuesta": "Atlas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 93,
+    "categoria": "Mitología",
+    "pregunta": "En la mitología nórdica, ¿cómo se llama el árbol que une los nueve mundos?",
+    "opciones": [
+      "Yggdrasil",
+      "Asgard",
+      "Valhalla",
+      "Midgard"
+    ],
+    "respuesta": "Yggdrasil",
+    "dificultad": "Legendario"
+  },
+  {
+    "id": 94,
+    "categoria": "Mitología",
+    "pregunta": "En la mitología griega, ¿quién es el dios del inframundo?",
+    "opciones": [
+      "Hades",
+      "Zeus",
+      "Hermes",
+      "Dionisio"
+    ],
+    "respuesta": "Hades",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 95,
+    "categoria": "Mitología",
+    "pregunta": "En la mitología japonesa, ¿qué nombre recibe el espíritu o deidad de la naturaleza presente en muchas cosas?",
+    "opciones": [
+      "Kami",
+      "Oni",
+      "Yokai",
+      "Tengu"
+    ],
+    "respuesta": "Kami",
+    "dificultad": "Legendario"
+  },
+  {
+    "id": 107,
+    "categoria": "Arquitectura",
+    "pregunta": "¿Cómo se llama el elemento arquitectónico curvo que se utiliza para cubrir un espacio entre dos puntos de apoyo?",
+    "opciones": [
+      "Arco",
+      "Columna",
+      "Frontón",
+      "Cornisa"
+    ],
+    "respuesta": "Arco",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 108,
+    "categoria": "Arquitectura",
+    "pregunta": "¿Qué arquitecto es autor del diseño de la Sagrada Familia en Barcelona?",
+    "opciones": [
+      "Antoni Gaudí",
+      "Le Corbusier",
+      "Frank Lloyd Wright",
+      "Mies van der Rohe"
+    ],
+    "respuesta": "Antoni Gaudí",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 109,
+    "categoria": "Arquitectura",
+    "pregunta": "¿Cómo se denomina el espacio descubierto central de una vivienda romana clásica, a menudo rodeado de columnas?",
+    "opciones": [
+      "Patio peristilo",
+      "Nártex",
+      "Transepto",
+      "Girola"
+    ],
+    "respuesta": "Patio peristilo",
+    "dificultad": "Difícil"
+  },
+  {
+    "id": 110,
+    "categoria": "Arquitectura",
+    "pregunta": "¿Qué estilo arquitectónico se caracteriza por arcos apuntados, bóvedas de crucería y grandes vitrales?",
+    "opciones": [
+      "Gótico",
+      "Románico",
+      "Barroco",
+      "Neoclásico"
+    ],
+    "respuesta": "Gótico",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 119,
+    "categoria": "Lingüística",
+    "pregunta": "¿Cómo se denomina la rama de la lingüística que estudia el significado de las palabras y oraciones?",
+    "opciones": [
+      "Semántica",
+      "Sintaxis",
+      "Morfología",
+      "Fonología"
+    ],
+    "respuesta": "Semántica",
+    "dificultad": "Difícil"
+  },
+  {
+    "id": 124,
+    "categoria": "Filosofía",
+    "pregunta": "¿Qué filósofo formuló la famosa frase 'Pienso, luego existo' (Cogito, ergo sum)?",
+    "opciones": [
+      "René Descartes",
+      "Immanuel Kant",
+      "Platón",
+      "Aristóteles"
+    ],
+    "respuesta": "René Descartes",
+    "dificultad": "Legendario"
+  }
+]

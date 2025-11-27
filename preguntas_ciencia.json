@@ -1,0 +1,301 @@
+[
+  {
+    "id": 2,
+    "categoria": "Ciencia",
+    "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+    "opciones": [
+      "Júpiter",
+      "Saturno",
+      "Neptuno",
+      "Tierra"
+    ],
+    "respuesta": "Júpiter",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 8,
+    "categoria": "Biología",
+    "pregunta": "¿Cuál es el órgano más grande del cuerpo humano?",
+    "opciones": [
+      "La piel",
+      "El hígado",
+      "El corazón",
+      "El intestino delgado"
+    ],
+    "respuesta": "La piel",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 12,
+    "categoria": "Astronomía",
+    "pregunta": "¿Cómo se llama la galaxia en la que se encuentra el sistema solar?",
+    "opciones": [
+      "Vía Láctea",
+      "Andrómeda",
+      "Triángulo",
+      "Sombrero"
+    ],
+    "respuesta": "Vía Láctea",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 16,
+    "categoria": "Ciencia",
+    "pregunta": "¿Cuál es la fórmula química del agua?",
+    "opciones": [
+      "H2O",
+      "CO2",
+      "O2",
+      "H2"
+    ],
+    "respuesta": "H2O",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 20,
+    "categoria": "Astronomía avanzada",
+    "pregunta": "¿Cómo se llama el punto teórico alrededor de un agujero negro del que nada puede escapar?",
+    "opciones": [
+      "Horizonte de sucesos",
+      "Disco de acreción",
+      "Singularidad anular",
+      "Cinturón de fotones"
+    ],
+    "respuesta": "Horizonte de sucesos",
+    "dificultad": "Legendario"
+  },
+  {
+    "id": 81,
+    "categoria": "Ciencia",
+    "pregunta": "¿Cuál es la partícula con carga negativa que orbita el núcleo de un átomo?",
+    "opciones": [
+      "Electrón",
+      "Protón",
+      "Neutrón",
+      "Quark"
+    ],
+    "respuesta": "Electrón",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 82,
+    "categoria": "Ciencia",
+    "pregunta": "¿Qué científico propuso la teoría de la relatividad?",
+    "opciones": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Nikola Tesla",
+      "Marie Curie"
+    ],
+    "respuesta": "Albert Einstein",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 83,
+    "categoria": "Ciencia",
+    "pregunta": "¿Cuál es el proceso por el cual las plantas producen su propio alimento usando luz solar?",
+    "opciones": [
+      "Fotosíntesis",
+      "Respiración",
+      "Fermentación",
+      "Evaporación"
+    ],
+    "respuesta": "Fotosíntesis",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 85,
+    "categoria": "Ciencia",
+    "pregunta": "¿Cuál es la unidad básica de la vida en los seres vivos?",
+    "opciones": [
+      "La célula",
+      "El tejido",
+      "El órgano",
+      "El átomo"
+    ],
+    "respuesta": "La célula",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 87,
+    "categoria": "Ciencia",
+    "pregunta": "¿Qué nombre recibe el cambio de estado de líquido a gas?",
+    "opciones": [
+      "Evaporación",
+      "Condensación",
+      "Solidificación",
+      "Fusión"
+    ],
+    "respuesta": "Evaporación",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 106,
+    "categoria": "Astronomía avanzada",
+    "pregunta": "¿Qué nombre recibe la hipótesis que propone la existencia de materia que no emite luz pero cuya gravedad afecta a la materia visible?",
+    "opciones": [
+      "Materia oscura",
+      "Energía oscura",
+      "Quintessencia",
+      "Inflatón"
+    ],
+    "respuesta": "Materia oscura",
+    "dificultad": "Legendario"
+  },
+  {
+    "id": 111,
+    "categoria": "Astronomía",
+    "pregunta": "¿Cómo se llama el satélite natural de la Tierra?",
+    "opciones": [
+      "La Luna",
+      "Europa",
+      "Titán",
+      "Fobos"
+    ],
+    "respuesta": "La Luna",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 112,
+    "categoria": "Astronomía",
+    "pregunta": "¿Qué nombre recibe la línea imaginaria alrededor de la cual gira un planeta?",
+    "opciones": [
+      "Eje de rotación",
+      "Ecuador",
+      "Órbita",
+      "Meridiano"
+    ],
+    "respuesta": "Eje de rotación",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 113,
+    "categoria": "Astronomía",
+    "pregunta": "¿Cómo se llaman los fragmentos de roca espacial que llegan a la superficie de la Tierra?",
+    "opciones": [
+      "Meteoritos",
+      "Cometas",
+      "Asteroides",
+      "Satélites"
+    ],
+    "respuesta": "Meteoritos",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 114,
+    "categoria": "Astronomía",
+    "pregunta": "¿Qué planeta del sistema solar es famoso por sus anillos visibles?",
+    "opciones": [
+      "Saturno",
+      "Júpiter",
+      "Urano",
+      "Neptuno"
+    ],
+    "respuesta": "Saturno",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 115,
+    "categoria": "Astronomía",
+    "pregunta": "¿Cómo se llama el punto del cielo hacia el cual se dirigen las líneas de la bóveda celeste sobre la cabeza del observador?",
+    "opciones": [
+      "Cenit",
+      "Nadir",
+      "Perihelio",
+      "Apogeo"
+    ],
+    "respuesta": "Cenit",
+    "dificultad": "Difícil"
+  },
+  {
+    "id": 116,
+    "categoria": "Ciencia avanzada",
+    "pregunta": "¿Cómo se llama el proceso por el cual un núcleo atómico pesado se divide en núcleos más ligeros liberando energía?",
+    "opciones": [
+      "Fisión nuclear",
+      "Fusión nuclear",
+      "Desintegración beta",
+      "Captura electrónica"
+    ],
+    "respuesta": "Fisión nuclear",
+    "dificultad": "Difícil"
+  },
+  {
+    "id": 120,
+    "categoria": "Matemáticas",
+    "pregunta": "¿Cómo se llama la rama de las matemáticas que estudia las tasas de cambio y las áreas bajo las curvas?",
+    "opciones": [
+      "Cálculo",
+      "Álgebra",
+      "Topología",
+      "Geometría proyectiva"
+    ],
+    "respuesta": "Cálculo",
+    "dificultad": "Difícil"
+  },
+  {
+    "id": 121,
+    "categoria": "Física teórica",
+    "pregunta": "¿Cómo se llama la teoría que unifica la interacción electromagnética y la fuerza nuclear débil?",
+    "opciones": [
+      "Teoría electrodébil",
+      "Teoría cuántica de campos",
+      "Teoría de cuerdas",
+      "Relatividad general"
+    ],
+    "respuesta": "Teoría electrodébil",
+    "dificultad": "Legendario"
+  },
+  {
+    "id": 122,
+    "categoria": "Matemáticas avanzadas",
+    "pregunta": "¿Cómo se llama la hipótesis no demostrada relacionada con la distribución de los ceros de la función zeta de Riemann?",
+    "opciones": [
+      "Hipótesis de Riemann",
+      "Conjetura de Goldbach",
+      "Último teorema de Fermat",
+      "Conjetura de Poincaré"
+    ],
+    "respuesta": "Hipótesis de Riemann",
+    "dificultad": "Legendario"
+  },
+  {
+    "id": 123,
+    "categoria": "Astronomía avanzada",
+    "pregunta": "¿Qué nombre recibe la región del espacio-tiempo donde la gravedad es tan intensa que ni siquiera la luz puede escapar, delimitada por el horizonte de sucesos?",
+    "opciones": [
+      "Agujero negro",
+      "Estrella de neutrones",
+      "Púlsar",
+      "Cuásar"
+    ],
+    "respuesta": "Agujero negro",
+    "dificultad": "Legendario"
+  },
+  {
+    "id": 140,
+    "categoria": "Neurociencia",
+    "pregunta": "¿Qué parte del cerebro está más asociada con funciones como la planificación, el razonamiento y el control de impulsos?",
+    "opciones": [
+      "Corteza prefrontal",
+      "Cerebelo",
+      "Bulbo raquídeo",
+      "Hipotálamo"
+    ],
+    "respuesta": "Corteza prefrontal",
+    "dificultad": "Difícil"
+  },
+  {
+    "id": 154,
+    "categoria": "Neurociencia",
+    "pregunta": "¿Qué estructura cerebral es clave para la formación de nuevos recuerdos declarativos?",
+    "opciones": [
+      "Hipocampo",
+      "Amígdala",
+      "Tálamo",
+      "Cerebelo"
+    ],
+    "respuesta": "Hipocampo",
+    "dificultad": "Difícil"
+  }
+]

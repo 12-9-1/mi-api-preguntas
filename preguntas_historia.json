@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1,
+    "categoria": "Historia",
+    "pregunta": "¿En qué año comenzó la Primera Guerra Mundial?",
+    "opciones": [
+      "1914",
+      "1939",
+      "1920",
+      "1899"
+    ],
+    "respuesta": "1914",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 15,
+    "categoria": "Historia",
+    "pregunta": "¿Qué civilización construyó la ciudad de Machu Picchu?",
+    "opciones": [
+      "Los incas",
+      "Los mayas",
+      "Los aztecas",
+      "Los olmecas"
+    ],
+    "respuesta": "Los incas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 22,
+    "categoria": "Historia de la ciencia",
+    "pregunta": "¿Quién formuló las leyes del movimiento que llevan su nombre y sentaron las bases de la mecánica clásica?",
+    "opciones": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Johannes Kepler"
+    ],
+    "respuesta": "Isaac Newton",
+    "dificultad": "Difícil"
+  },
+  {
+    "id": 78,
+    "categoria": "Historia",
+    "pregunta": "¿En qué año se produjo la Revolución Francesa considerada su inicio oficial?",
+    "opciones": [
+      "1789",
+      "1812",
+      "1492",
+      "1917"
+    ],
+    "respuesta": "1789",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 79,
+    "categoria": "Historia",
+    "pregunta": "¿Qué imperio construyó la Gran Muralla China?",
+    "opciones": [
+      "Imperio chino",
+      "Imperio romano",
+      "Imperio persa",
+      "Imperio otomano"
+    ],
+    "respuesta": "Imperio chino",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 80,
+    "categoria": "Historia",
+    "pregunta": "¿Quién fue el primer presidente de los Estados Unidos?",
+    "opciones": [
+      "George Washington",
+      "Abraham Lincoln",
+      "Thomas Jefferson",
+      "John Adams"
+    ],
+    "respuesta": "George Washington",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 84,
+    "categoria": "Historia",
+    "pregunta": "¿Qué país lanzó la primera nave espacial tripulada que llegó a la Luna?",
+    "opciones": [
+      "Estados Unidos",
+      "Unión Soviética",
+      "China",
+      "Reino Unido"
+    ],
+    "respuesta": "Estados Unidos",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 86,
+    "categoria": "Historia",
+    "pregunta": "¿Cómo se llamó el conflicto mundial que tuvo lugar entre 1939 y 1945?",
+    "opciones": [
+      "Segunda Guerra Mundial",
+      "Primera Guerra Mundial",
+      "Guerra Fría",
+      "Guerra de Vietnam"
+    ],
+    "respuesta": "Segunda Guerra Mundial",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 117,
+    "categoria": "Historia",
+    "pregunta": "¿Qué tratado firmado en 1919 puso fin oficialmente al estado de guerra entre Alemania y los Aliados tras la Primera Guerra Mundial?",
+    "opciones": [
+      "Tratado de Versalles",
+      "Tratado de París",
+      "Tratado de Viena",
+      "Tratado de Brest-Litovsk"
+    ],
+    "respuesta": "Tratado de Versalles",
+    "dificultad": "Difícil"
+  },
+  {
+    "id": 125,
+    "categoria": "Historia de la ciencia",
+    "pregunta": "¿Qué físico formuló las ecuaciones que describen el comportamiento de los campos eléctricos y magnéticos unificados en el electromagnetismo clásico?",
+    "opciones": [
+      "James Clerk Maxwell",
+      "Michael Faraday",
+      "Heinrich Hertz",
+      "André-Marie Ampère"
+    ],
+    "respuesta": "James Clerk Maxwell",
+    "dificultad": "Legendario"
+  },
+  {
+    "id": 135,
+    "categoria": "Historia latinoamericana",
+    "pregunta": "¿Qué líder es conocido como 'El Libertador' por su papel en la independencia de varios países de Sudamérica?",
+    "opciones": [
+      "Simón Bolívar",
+      "José de San Martín",
+      "Miguel Hidalgo",
+      "Bernardo O'Higgins"
+    ],
+    "respuesta": "Simón Bolívar",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 136,
+    "categoria": "Historia argentina",
+    "pregunta": "¿En qué año se conmemora oficialmente la Revolución de Mayo en Argentina?",
+    "opciones": [
+      "1810",
+      "1816",
+      "1820",
+      "1806"
+    ],
+    "respuesta": "1810",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 151,
+    "categoria": "Historia latinoamericana",
+    "pregunta": "¿Qué país latinoamericano sufrió un conocido proceso de dictadura militar liderado por Augusto Pinochet?",
+    "opciones": [
+      "Chile",
+      "Argentina",
+      "Perú",
+      "Colombia"
+    ],
+    "respuesta": "Chile",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 152,
+    "categoria": "Historia argentina",
+    "pregunta": "¿Quién fue el líder independentista conocido como el 'Padre de la Patria' en Argentina?",
+    "opciones": [
+      "José de San Martín",
+      "Manuel Belgrano",
+      "Juan Manuel de Rosas",
+      "Domingo F. Sarmiento"
+    ],
+    "respuesta": "José de San Martín",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 172,
+    "categoria": "Historia",
+    "pregunta": "¿Qué guerra se considera el conflicto más mortífero de la historia humana si se tiene en cuenta el número total de víctimas militares y civiles?",
+    "opciones": [
+      "Segunda Guerra Mundial",
+      "Primera Guerra Mundial",
+      "Guerras Napoleónicas",
+      "Guerra de los Treinta Años"
+    ],
+    "respuesta": "Segunda Guerra Mundial",
+    "dificultad": "Legendario"
+  },
+  {
+    "id": 173,
+    "categoria": "Historia",
+    "pregunta": "¿Qué imperio fue gobernado durante casi medio siglo por Justiniano I, conocido por su intento de restaurar la unidad del Imperio romano y por un importante código de leyes?",
+    "opciones": [
+      "Imperio bizantino",
+      "Imperio carolingio",
+      "Imperio otomano",
+      "Imperio persa aqueménida"
+    ],
+    "respuesta": "Imperio bizantino",
+    "dificultad": "Legendario"
+  }
+]

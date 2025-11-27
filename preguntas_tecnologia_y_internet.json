@@ -1,0 +1,275 @@
+[
+  {
+    "id": 7,
+    "categoria": "Tecnología",
+    "pregunta": "¿Qué significa la sigla 'CPU' en informática?",
+    "opciones": [
+      "Unidad Central de Procesamiento",
+      "Control Principal de Usuario",
+      "Canal Público Unificado",
+      "Unidad de Cálculo Paralelo"
+    ],
+    "respuesta": "Unidad Central de Procesamiento",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 23,
+    "categoria": "Tecnología",
+    "pregunta": "¿En qué década apareció la World Wide Web para uso público?",
+    "opciones": [
+      "Años 90",
+      "Años 70",
+      "Años 80",
+      "Años 60"
+    ],
+    "respuesta": "Años 90",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 66,
+    "categoria": "Videojuegos",
+    "pregunta": "¿Cómo se llama el fontanero protagonista de una famosa saga de Nintendo?",
+    "opciones": [
+      "Mario",
+      "Luigi",
+      "Link",
+      "Yoshi"
+    ],
+    "respuesta": "Mario",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 67,
+    "categoria": "Videojuegos",
+    "pregunta": "En 'Minecraft', ¿qué material necesitas para fabricar una mesa de trabajo (crafting table)?",
+    "opciones": [
+      "Tablas de madera",
+      "Piedra",
+      "Lingotes de hierro",
+      "Bloques de tierra"
+    ],
+    "respuesta": "Tablas de madera",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 68,
+    "categoria": "Videojuegos",
+    "pregunta": "¿Cuál de estos videojuegos es un juego de disparos en primera persona (FPS)?",
+    "opciones": [
+      "Counter-Strike",
+      "FIFA",
+      "Mario Kart",
+      "The Sims"
+    ],
+    "respuesta": "Counter-Strike",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 126,
+    "categoria": "Tecnología",
+    "pregunta": "¿Qué significa la sigla 'HTML' en el contexto del desarrollo web?",
+    "opciones": [
+      "HyperText Markup Language",
+      "High Transfer Main Link",
+      "Hyper Transfer Markup Level",
+      "Host Text Main Language"
+    ],
+    "respuesta": "HyperText Markup Language",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 127,
+    "categoria": "Programación",
+    "pregunta": "En programación, ¿cómo se llama el error que ocurre cuando una función se llama a sí misma infinitamente sin una condición de parada adecuada?",
+    "opciones": [
+      "Recursión infinita",
+      "Bucle for",
+      "Desbordamiento de búfer",
+      "Inyección de código"
+    ],
+    "respuesta": "Recursión infinita",
+    "dificultad": "Difícil"
+  },
+  {
+    "id": 128,
+    "categoria": "Ciberseguridad",
+    "pregunta": "¿Cómo se llama el tipo de ataque en el que un atacante suplanta la identidad de un sitio web legítimo para robar credenciales?",
+    "opciones": [
+      "Phishing",
+      "DDoS",
+      "Ransomware",
+      "Spoofing de DNS"
+    ],
+    "respuesta": "Phishing",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 133,
+    "categoria": "Cultura de Internet",
+    "pregunta": "En redes sociales, ¿qué significa la sigla 'LOL'?",
+    "opciones": [
+      "Laughing Out Loud",
+      "Lots Of Likes",
+      "Loss Of Logic",
+      "Line Of Life"
+    ],
+    "respuesta": "Laughing Out Loud",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 134,
+    "categoria": "Redes sociales",
+    "pregunta": "¿Qué plataforma es especialmente conocida por sus videos cortos en formato vertical y algoritmos de recomendación muy adictivos?",
+    "opciones": [
+      "TikTok",
+      "LinkedIn",
+      "Reddit",
+      "Twitter"
+    ],
+    "respuesta": "TikTok",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 138,
+    "categoria": "Videojuegos retro",
+    "pregunta": "¿En qué consola apareció originalmente el videojuego 'Super Mario Bros.'?",
+    "opciones": [
+      "NES",
+      "PlayStation",
+      "Sega Genesis",
+      "Nintendo 64"
+    ],
+    "respuesta": "NES",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 141,
+    "categoria": "Tecnología",
+    "pregunta": "¿Qué empresa desarrolló originalmente el sistema operativo Windows?",
+    "opciones": [
+      "Microsoft",
+      "Apple",
+      "IBM",
+      "Google"
+    ],
+    "respuesta": "Microsoft",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 142,
+    "categoria": "Programación",
+    "pregunta": "En JavaScript, ¿qué palabra clave se utiliza para declarar una constante que no cambiará de valor?",
+    "opciones": [
+      "const",
+      "var",
+      "let",
+      "static"
+    ],
+    "respuesta": "const",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 143,
+    "categoria": "Videojuegos",
+    "pregunta": "¿Qué famoso juego de construcción y exploración en mundo abierto fue creado por Markus Persson, conocido como Notch?",
+    "opciones": [
+      "Minecraft",
+      "Terraria",
+      "Roblox",
+      "Fortnite"
+    ],
+    "respuesta": "Minecraft",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 149,
+    "categoria": "Cultura de Internet",
+    "pregunta": "En Internet, ¿qué significa normalmente la expresión 'meme'?",
+    "opciones": [
+      "Contenido humorístico que se difunde rápidamente",
+      "Un archivo de sistema",
+      "Un tipo de virus informático",
+      "Un protocolo de red"
+    ],
+    "respuesta": "Contenido humorístico que se difunde rápidamente",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 150,
+    "categoria": "Redes sociales",
+    "pregunta": "¿Qué red social se caracteriza por el uso de mensajes cortos llamados 'tweets'?",
+    "opciones": [
+      "Twitter",
+      "Instagram",
+      "Facebook",
+      "TikTok"
+    ],
+    "respuesta": "Twitter",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 165,
+    "categoria": "Tecnología",
+    "pregunta": "¿Qué empresa desarrolló el sistema operativo Android, utilizado en la mayoría de los smartphones del mundo?",
+    "opciones": [
+      "Google",
+      "Apple",
+      "Microsoft",
+      "Samsung"
+    ],
+    "respuesta": "Google",
+    "dificultad": "Difícil"
+  },
+  {
+    "id": 166,
+    "categoria": "Programación",
+    "pregunta": "¿Qué paradigma de programación se basa en funciones puras y en evitar el estado mutable y los efectos secundarios?",
+    "opciones": [
+      "Programación funcional",
+      "Programación orientada a objetos",
+      "Programación imperativa",
+      "Programación orientada a aspectos"
+    ],
+    "respuesta": "Programación funcional",
+    "dificultad": "Difícil"
+  },
+  {
+    "id": 167,
+    "categoria": "Ciberseguridad",
+    "pregunta": "¿Cómo se llama el tipo de ataque en el que un atacante intercepta y posiblemente modifica la comunicación entre dos partes sin que ellas lo sepan?",
+    "opciones": [
+      "Ataque de intermediario (Man-in-the-Middle)",
+      "Ataque de fuerza bruta",
+      "Ataque de diccionario",
+      "Ataque de phishing"
+    ],
+    "respuesta": "Ataque de intermediario (Man-in-the-Middle)",
+    "dificultad": "Difícil"
+  },
+  {
+    "id": 168,
+    "categoria": "Tecnología",
+    "pregunta": "¿Qué arquitecturas de red distribuyen la carga de trabajo entre servidores y clientes, en lugar de depender de un único servidor central?",
+    "opciones": [
+      "Redes peer-to-peer (P2P)",
+      "Redes cliente-servidor",
+      "Redes estrella",
+      "Redes en bus"
+    ],
+    "respuesta": "Redes peer-to-peer (P2P)",
+    "dificultad": "Legendario"
+  },
+  {
+    "id": 169,
+    "categoria": "Tecnología",
+    "pregunta": "¿Qué sigla se utiliza para describir un sistema que puede aprender automáticamente a partir de datos sin ser programado explícitamente para cada tarea específica?",
+    "opciones": [
+      "ML (Machine Learning)",
+      "SQL",
+      "API",
+      "HTTP"
+    ],
+    "respuesta": "ML (Machine Learning)",
+    "dificultad": "Legendario"
+  }
+]

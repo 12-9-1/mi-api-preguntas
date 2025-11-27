@@ -1,0 +1,626 @@
+[
+  {
+    "id": 6,
+    "categoria": "Cine",
+    "pregunta": "¿Qué película ganó el Óscar a Mejor Película en 1994?",
+    "opciones": [
+      "Forrest Gump",
+      "Pulp Fiction",
+      "Cadena perpetua",
+      "Leyendas de pasión"
+    ],
+    "respuesta": "Forrest Gump",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 10,
+    "categoria": "Música",
+    "pregunta": "¿Cuál de estos compositores es conocido por su Novena Sinfonía?",
+    "opciones": [
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Wolfgang Amadeus Mozart",
+      "Frédéric Chopin"
+    ],
+    "respuesta": "Ludwig van Beethoven",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 24,
+    "categoria": "Cultura popular",
+    "pregunta": "¿Cuál es el nombre del colegio de magia en la saga de Harry Potter?",
+    "opciones": [
+      "Hogwarts",
+      "Ilvermorny",
+      "Beauxbatons",
+      "Durmstrang"
+    ],
+    "respuesta": "Hogwarts",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 26,
+    "categoria": "Películas",
+    "pregunta": "¿Qué frase icónica dice Darth Vader a Luke Skywalker en 'Star Wars: El Imperio contraataca'?",
+    "opciones": [
+      "Yo soy tu padre",
+      "Luke, usa la Fuerza",
+      "Que la Fuerza te acompañe",
+      "No subestimes el poder del lado oscuro"
+    ],
+    "respuesta": "Yo soy tu padre",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 27,
+    "categoria": "Películas",
+    "pregunta": "¿En qué película aparece la famosa frase 'I'm gonna make him an offer he can't refuse'?",
+    "opciones": [
+      "El Padrino",
+      "Scarface",
+      "Buenos muchachos",
+      "Casino"
+    ],
+    "respuesta": "El Padrino",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 28,
+    "categoria": "Películas",
+    "pregunta": "¿Cuál es el nombre del anillo central en la saga 'El Señor de los Anillos'?",
+    "opciones": [
+      "El Anillo Único",
+      "El Anillo del Poder",
+      "El Anillo de Sauron",
+      "El Anillo de Mordor"
+    ],
+    "respuesta": "El Anillo Único",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 29,
+    "categoria": "Memes de películas",
+    "pregunta": "El meme 'This is fine' suele mostrar a un personaje rodeado de fuego diciendo que todo está bien. ¿A qué idea suele hacer referencia este meme cuando se usa?",
+    "opciones": [
+      "Negar que algo va mal",
+      "Celebrar un logro",
+      "Mostrar sorpresa",
+      "Mostrar felicidad extrema"
+    ],
+    "respuesta": "Negar que algo va mal",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 30,
+    "categoria": "Memes de películas",
+    "pregunta": "El meme de Leonardo DiCaprio brindando con una copa, usado para felicitar o hacer bromas, proviene de la película:",
+    "opciones": [
+      "El Gran Gatsby",
+      "Titanic",
+      "El lobo de Wall Street",
+      "Inception"
+    ],
+    "respuesta": "El Gran Gatsby",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 31,
+    "categoria": "Memes de películas",
+    "pregunta": "El meme de Morfeo ofreciendo dos pastillas de distinto color se usa para representar una elección importante. ¿De qué película es esa escena?",
+    "opciones": [
+      "Matrix",
+      "Blade Runner",
+      "Tron",
+      "Minority Report"
+    ],
+    "respuesta": "Matrix",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 32,
+    "categoria": "Películas",
+    "pregunta": "¿Qué actor interpreta al personaje de Jack en la película 'Titanic'?",
+    "opciones": [
+      "Leonardo DiCaprio",
+      "Brad Pitt",
+      "Johnny Depp",
+      "Matt Damon"
+    ],
+    "respuesta": "Leonardo DiCaprio",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 33,
+    "categoria": "Memes de películas",
+    "pregunta": "El meme de 'Why so serious?' con una sonrisa exagerada hace referencia al personaje de Joker interpretado por Heath Ledger en:",
+    "opciones": [
+      "The Dark Knight",
+      "Joker",
+      "Suicide Squad",
+      "Batman Begins"
+    ],
+    "respuesta": "The Dark Knight",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 34,
+    "categoria": "Películas",
+    "pregunta": "En la película 'Volver al futuro', ¿a qué año viaja Marty McFly cuando usa por primera vez el DeLorean?",
+    "opciones": [
+      "1955",
+      "1985",
+      "2015",
+      "1975"
+    ],
+    "respuesta": "1955",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 35,
+    "categoria": "Memes de películas",
+    "pregunta": "El meme de 'Uno no simplemente...' caminando hacia una puerta proviene del personaje Boromir en 'El Señor de los Anillos'. ¿Qué lugar menciona en la frase original?",
+    "opciones": [
+      "Mordor",
+      "La Comarca",
+      "Gondor",
+      "Rivendel"
+    ],
+    "respuesta": "Mordor",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 36,
+    "categoria": "Series",
+    "pregunta": "¿En qué ciudad se desarrolla principalmente la serie 'Friends'?",
+    "opciones": [
+      "Nueva York",
+      "Los Ángeles",
+      "Chicago",
+      "Miami"
+    ],
+    "respuesta": "Nueva York",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 37,
+    "categoria": "Series",
+    "pregunta": "En 'Breaking Bad', ¿qué sustancia ilegal produce Walter White?",
+    "opciones": [
+      "Metanfetamina",
+      "Cocaína",
+      "Heroína",
+      "Éxtasis"
+    ],
+    "respuesta": "Metanfetamina",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 38,
+    "categoria": "Series",
+    "pregunta": "En 'Stranger Things', ¿cómo se llama la dimensión paralela oscura?",
+    "opciones": [
+      "El Mundo del Revés",
+      "El Abismo",
+      "La Zona Oscura",
+      "La Otra Dimensión"
+    ],
+    "respuesta": "El Mundo del Revés",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 39,
+    "categoria": "Series",
+    "pregunta": "¿Cuál es el apellido de la familia principal en 'Los Simpson'?",
+    "opciones": [
+      "Simpson",
+      "Flanders",
+      "Griffin",
+      "Sánchez"
+    ],
+    "respuesta": "Simpson",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 40,
+    "categoria": "Series",
+    "pregunta": "En 'Game of Thrones', ¿cuál es el lema de la casa Stark?",
+    "opciones": [
+      "Se acerca el invierno",
+      "Fuego y sangre",
+      "Oye mi rugido",
+      "Familia, Deber, Honor"
+    ],
+    "respuesta": "Se acerca el invierno",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 41,
+    "categoria": "Series",
+    "pregunta": "En 'La Casa de Papel', ¿qué ciudad usa como nombre clave el personaje principal que diseña el plan?",
+    "opciones": [
+      "El Profesor no usa ciudad",
+      "Tokio",
+      "Berlín",
+      "Nairobi"
+    ],
+    "respuesta": "El Profesor no usa ciudad",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 42,
+    "categoria": "Series",
+    "pregunta": "En 'The Big Bang Theory', ¿cuál es el nombre completo del personaje interpretado por Jim Parsons?",
+    "opciones": [
+      "Sheldon Cooper",
+      "Leonard Hofstadter",
+      "Howard Wolowitz",
+      "Raj Koothrappali"
+    ],
+    "respuesta": "Sheldon Cooper",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 43,
+    "categoria": "Series",
+    "pregunta": "En 'How I Met Your Mother', ¿cómo se llama el bar donde el grupo se reúne con frecuencia?",
+    "opciones": [
+      "MacLaren's",
+      "Paddy's Pub",
+      "Central Perk",
+      "The Drunken Clam"
+    ],
+    "respuesta": "MacLaren's",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 44,
+    "categoria": "Series",
+    "pregunta": "En 'The Walking Dead', ¿qué son los 'walkers'?",
+    "opciones": [
+      "Zombis",
+      "Robots",
+      "Alienígenas",
+      "Animales mutantes"
+    ],
+    "respuesta": "Zombis",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 45,
+    "categoria": "Series",
+    "pregunta": "¿En qué serie aparece el personaje de Sheldon Cooper por primera vez?",
+    "opciones": [
+      "The Big Bang Theory",
+      "Young Sheldon",
+      "Modern Family",
+      "Community"
+    ],
+    "respuesta": "The Big Bang Theory",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 56,
+    "categoria": "Música",
+    "pregunta": "¿Qué banda británica es conocida por canciones como 'Bohemian Rhapsody' y 'We Will Rock You'?",
+    "opciones": [
+      "Queen",
+      "The Beatles",
+      "Pink Floyd",
+      "The Rolling Stones"
+    ],
+    "respuesta": "Queen",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 57,
+    "categoria": "Música",
+    "pregunta": "¿Cuál de estos instrumentos tiene teclas y se toca normalmente con ambas manos?",
+    "opciones": [
+      "Piano",
+      "Violín",
+      "Flauta",
+      "Trompeta"
+    ],
+    "respuesta": "Piano",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 58,
+    "categoria": "Música",
+    "pregunta": "¿Qué cantante es conocido como el 'Rey del Pop'?",
+    "opciones": [
+      "Michael Jackson",
+      "Elvis Presley",
+      "Prince",
+      "Freddie Mercury"
+    ],
+    "respuesta": "Michael Jackson",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 59,
+    "categoria": "Música",
+    "pregunta": "¿De qué país es originario el tango?",
+    "opciones": [
+      "Argentina",
+      "Brasil",
+      "Uruguay",
+      "España"
+    ],
+    "respuesta": "Argentina",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 60,
+    "categoria": "Música",
+    "pregunta": "¿Cuál de estos géneros musicales se asocia tradicionalmente con Jamaica?",
+    "opciones": [
+      "Reggae",
+      "Salsa",
+      "Flamenco",
+      "Blues"
+    ],
+    "respuesta": "Reggae",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 61,
+    "categoria": "Música",
+    "pregunta": "¿Qué grupo es autor del álbum 'Abbey Road'?",
+    "opciones": [
+      "The Beatles",
+      "Queen",
+      "Nirvana",
+      "U2"
+    ],
+    "respuesta": "The Beatles",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 62,
+    "categoria": "Música",
+    "pregunta": "¿Cuál de estos es un famoso compositor de música clásica?",
+    "opciones": [
+      "Wolfgang Amadeus Mozart",
+      "Bob Dylan",
+      "Eminem",
+      "Shakira"
+    ],
+    "respuesta": "Wolfgang Amadeus Mozart",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 63,
+    "categoria": "Música",
+    "pregunta": "¿Qué cantante latina popularizó la canción 'Hips Don't Lie'?",
+    "opciones": [
+      "Shakira",
+      "Jennifer Lopez",
+      "Thalía",
+      "Gloria Estefan"
+    ],
+    "respuesta": "Shakira",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 64,
+    "categoria": "Música",
+    "pregunta": "¿Cuál de los siguientes es un festival de música muy famoso celebrado en el Reino Unido?",
+    "opciones": [
+      "Glastonbury",
+      "Coachella",
+      "Lollapalooza",
+      "Rock in Rio"
+    ],
+    "respuesta": "Glastonbury",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 65,
+    "categoria": "Música",
+    "pregunta": "¿Qué instrumento de cuerda se toca apoyado entre el hombro y el mentón?",
+    "opciones": [
+      "Violín",
+      "Guitarra",
+      "Contrabajo",
+      "Arpa"
+    ],
+    "respuesta": "Violín",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 66,
+    "categoria": "Videojuegos",
+    "pregunta": "¿Cómo se llama el fontanero protagonista de una famosa saga de Nintendo?",
+    "opciones": [
+      "Mario",
+      "Luigi",
+      "Link",
+      "Yoshi"
+    ],
+    "respuesta": "Mario",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 67,
+    "categoria": "Videojuegos",
+    "pregunta": "En 'Minecraft', ¿qué material necesitas para fabricar una mesa de trabajo (crafting table)?",
+    "opciones": [
+      "Tablas de madera",
+      "Piedra",
+      "Lingotes de hierro",
+      "Bloques de tierra"
+    ],
+    "respuesta": "Tablas de madera",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 68,
+    "categoria": "Videojuegos",
+    "pregunta": "¿Cuál de estos videojuegos es un juego de disparos en primera persona (FPS)?",
+    "opciones": [
+      "Counter-Strike",
+      "FIFA",
+      "Mario Kart",
+      "The Sims"
+    ],
+    "respuesta": "Counter-Strike",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 69,
+    "categoria": "Anime",
+    "pregunta": "En 'Dragon Ball Z', ¿cómo se llama el padre de Goku?",
+    "opciones": [
+      "Bardock",
+      "Vegeta",
+      "Raditz",
+      "Nappa"
+    ],
+    "respuesta": "Bardock",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 70,
+    "categoria": "Anime",
+    "pregunta": "¿Cuál es el nombre del protagonista de 'Naruto'?",
+    "opciones": [
+      "Naruto Uzumaki",
+      "Sasuke Uchiha",
+      "Kakashi Hatake",
+      "Rock Lee"
+    ],
+    "respuesta": "Naruto Uzumaki",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 71,
+    "categoria": "Anime",
+    "pregunta": "En 'Attack on Titan' (Shingeki no Kyojin), ¿contra qué luchan principalmente los personajes?",
+    "opciones": [
+      "Titanes",
+      "Dragones",
+      "Robots gigantes",
+      "Vampiros"
+    ],
+    "respuesta": "Titanes",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 138,
+    "categoria": "Videojuegos retro",
+    "pregunta": "¿En qué consola apareció originalmente el videojuego 'Super Mario Bros.'?",
+    "opciones": [
+      "NES",
+      "PlayStation",
+      "Sega Genesis",
+      "Nintendo 64"
+    ],
+    "respuesta": "NES",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 143,
+    "categoria": "Videojuegos",
+    "pregunta": "¿Qué famoso juego de construcción y exploración en mundo abierto fue creado por Markus Persson, conocido como Notch?",
+    "opciones": [
+      "Minecraft",
+      "Terraria",
+      "Roblox",
+      "Fortnite"
+    ],
+    "respuesta": "Minecraft",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 144,
+    "categoria": "Anime",
+    "pregunta": "En 'One Piece', ¿cómo se llama el protagonista que sueña con convertirse en el Rey de los Piratas?",
+    "opciones": [
+      "Monkey D. Luffy",
+      "Roronoa Zoro",
+      "Sanji",
+      "Usopp"
+    ],
+    "respuesta": "Monkey D. Luffy",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 159,
+    "categoria": "Películas",
+    "pregunta": "¿Qué director es conocido por películas como 'Inception', 'Interstellar' y 'Dunkerque'?",
+    "opciones": [
+      "Christopher Nolan",
+      "Steven Spielberg",
+      "Quentin Tarantino",
+      "Martin Scorsese"
+    ],
+    "respuesta": "Christopher Nolan",
+    "dificultad": "Difícil"
+  },
+  {
+    "id": 160,
+    "categoria": "Series",
+    "pregunta": "En la serie 'Breaking Bad', ¿cuál es el alias que utiliza Walter White en el mundo del narcotráfico?",
+    "opciones": [
+      "Heisenberg",
+      "Gus",
+      "Tuco",
+      "Saul"
+    ],
+    "respuesta": "Heisenberg",
+    "dificultad": "Difícil"
+  },
+  {
+    "id": 161,
+    "categoria": "Música",
+    "pregunta": "¿Qué banda británica lanzó en 1973 el álbum conceptual 'The Dark Side of the Moon'?",
+    "opciones": [
+      "Pink Floyd",
+      "The Beatles",
+      "Led Zeppelin",
+      "Queen"
+    ],
+    "respuesta": "Pink Floyd",
+    "dificultad": "Difícil"
+  },
+  {
+    "id": 162,
+    "categoria": "Videojuegos",
+    "pregunta": "¿Qué compañía desarrolló la saga de videojuegos 'The Legend of Zelda'?",
+    "opciones": [
+      "Nintendo",
+      "Sony",
+      "Microsoft",
+      "Sega"
+    ],
+    "respuesta": "Nintendo",
+    "dificultad": "Difícil"
+  },
+  {
+    "id": 163,
+    "categoria": "Películas",
+    "pregunta": "¿Qué película de ciencia ficción de 1999 es famosa por cuestionar la naturaleza de la realidad mediante una simulación por ordenador?",
+    "opciones": [
+      "The Matrix",
+      "Terminator 2",
+      "Minority Report",
+      "Blade Runner"
+    ],
+    "respuesta": "The Matrix",
+    "dificultad": "Legendario"
+  },
+  {
+    "id": 164,
+    "categoria": "Series",
+    "pregunta": "En 'Game of Thrones', ¿cómo se llama el autor de la saga de novelas en la que se basa la serie?",
+    "opciones": [
+      "George R. R. Martin",
+      "J. R. R. Tolkien",
+      "Patrick Rothfuss",
+      "Brandon Sanderson"
+    ],
+    "respuesta": "George R. R. Martin",
+    "dificultad": "Legendario"
+  }
+]
