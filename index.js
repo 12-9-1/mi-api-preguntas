@@ -28,15 +28,34 @@ for (const archivo of archivosPreguntas) {
   }
 }
 
+// Función para barajar un arreglo (Fisher-Yates)
+function shuffleArray(arr) {
+  const copia = [...arr];
+  for (let i = copia.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [copia[i], copia[j]] = [copia[j], copia[i]];
+  }
+  return copia;
+}
+
+// Devuelve una copia de la pregunta con las opciones mezcladas
+function mezclarOpcionesPregunta(pregunta) {
+  return {
+    ...pregunta,
+    opciones: shuffleArray(pregunta.opciones)
+  };
+}
+
 // Obtener todas las preguntas
 app.get("/preguntas", (req, res) => {
-  res.json(preguntas);
+  const mezcladas = preguntas.map(mezclarOpcionesPregunta);
+  res.json(mezcladas);
 });
 
 // Obtener una pregunta random
 app.get("/pregunta/random", (req, res) => {
   const random = preguntas[Math.floor(Math.random() * preguntas.length)];
-  res.json(random);
+  res.json(mezclarOpcionesPregunta(random));
 });
 
 // Obtener preguntas por categoría
@@ -45,7 +64,8 @@ app.get("/preguntas/:categoria", (req, res) => {
   const filtradas = preguntas.filter(
     p => p.categoria.toLowerCase() === categoria
   );
-  res.json(filtradas);
+  const mezcladas = filtradas.map(mezclarOpcionesPregunta);
+  res.json(mezcladas);
 });
 
 // Agregar pregunta nueva
